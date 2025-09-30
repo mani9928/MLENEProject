@@ -4,8 +4,8 @@ numpy
 pymongo
 certifi
 scikit-learn
-dill
 pyaml
+pickle
 
 
 
